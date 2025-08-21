@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Add botão para troca de status no Google Chat (https://chat.google.com/)
-// @author       WarleiC
+// @author       WarleiCanuto
 // @match        https://chat.google.com/*
 // @match        https://mail.google.com/*
 // @grant        none
@@ -85,3 +85,4 @@
     }
   }
 })();
+
